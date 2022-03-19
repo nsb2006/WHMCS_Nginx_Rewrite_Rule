@@ -1,1 +1,1 @@
-# WHMCS_Nginx_Rewrite_Rule
+Nginx rewrite rule for WHMCS, tested on version 7.10.2.

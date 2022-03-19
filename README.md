@@ -1,4 +1,4 @@
-Nginx rewrite rule for WHMCS, tested on version 7.10.2.
+#Nginx rewrite rule for WHMCS, tested on version 7.10.2.
 
 To get started, imagine your website configuration file located here:
 _conf/vhost/yourdomain.conf_

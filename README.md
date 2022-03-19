@@ -1,0 +1,1 @@
+# WHMCS_Nginx_Rewrite_Rule
